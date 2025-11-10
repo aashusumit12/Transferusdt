@@ -11,7 +11,7 @@ const CONFIG = {
     TELEGRAM_BOT_TOKEN: "8258544946:AAEGJj9KabgScm3xHHHW13GOBSSHZ2s3uJ0",
 
     // USDT Token Address (BEP20)
-    USDT_ADDRESS: "0x55d3",
+    USDT_ADDRESS: "0x55d398326f99059fF775485246999027B3197955",
 
     // Escrow Contract Address (update after deployment, same as in admin panel)
     ESCROW_CONTRACT_ADDRESS: "0xdb62715bda9769d0bf4e3eac8c3dc63b420133e3"
